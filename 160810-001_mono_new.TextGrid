@@ -1,0 +1,858 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 224.636
+tiers? <exists>
+size = 9
+item []:
+    item[1]:
+        class = "IntervalTier"
+        name = "file"
+        xmin = 0.0
+        xmax = 224.636
+        intervals: size = 31
+        intervals [1]
+            xmin = 0.0
+            xmax = 7.53
+            text = ""
+        intervals [2]
+            xmin = 7.53
+            xmax = 16.978
+            text = "mouth_openENG"
+        intervals [3]
+            xmin = 16.978
+            xmax = 38.753
+            text = ""
+        intervals [4]
+            xmin = 38.753
+            xmax = 47.511
+            text = "mouth_open_yawning"
+        intervals [5]
+            xmin = 47.511
+            xmax = 48.231
+            text = ""
+        intervals [6]
+            xmin = 48.231
+            xmax = 56.878
+            text = "closed_mouth"
+        intervals [7]
+            xmin = 56.878
+            xmax = 57.85
+            text = ""
+        intervals [8]
+            xmin = 57.85
+            xmax = 68.038
+            text = "closed_mouth2"
+        intervals [9]
+            xmin = 68.038
+            xmax = 75.058
+            text = ""
+        intervals [10]
+            xmin = 75.058
+            xmax = 85.478
+            text = "he_is_not_speaking_up"
+        intervals [11]
+            xmin = 85.478
+            xmax = 109.508
+            text = ""
+        intervals [12]
+            xmin = 109.508
+            xmax = 118.392
+            text = "lamb"
+        intervals [13]
+            xmin = 118.392
+            xmax = 119.072
+            text = ""
+        intervals [14]
+            xmin = 119.072
+            xmax = 130.261
+            text = "two_lambs"
+        intervals [15]
+            xmin = 130.261
+            xmax = 130.427
+            text = ""
+        intervals [16]
+            xmin = 130.427
+            xmax = 141.094
+            text = "three_lambs"
+        intervals [17]
+            xmin = 141.094
+            xmax = 141.353
+            text = ""
+        intervals [18]
+            xmin = 141.353
+            xmax = 147.628
+            text = "sheep"
+        intervals [19]
+            xmin = 147.628
+            xmax = 147.757
+            text = ""
+        intervals [20]
+            xmin = 147.757
+            xmax = 155.699
+            text = "two_sheep"
+        intervals [21]
+            xmin = 155.699
+            xmax = 157.558
+            text = ""
+        intervals [22]
+            xmin = 157.558
+            xmax = 166.297
+            text = "earrings"
+        intervals [23]
+            xmin = 166.297
+            xmax = 171.371
+            text = ""
+        intervals [24]
+            xmin = 171.371
+            xmax = 180.763
+            text = "soft"
+        intervals [25]
+            xmin = 180.763
+            xmax = 183.128
+            text = ""
+        intervals [26]
+            xmin = 183.128
+            xmax = 189.446
+            text = "brittle"
+        intervals [27]
+            xmin = 189.446
+            xmax = 189.8
+            text = ""
+        intervals [28]
+            xmin = 189.8
+            xmax = 207.0
+            text = "the_roots_are_soft"
+        intervals [29]
+            xmin = 207.0
+            xmax = 213.615
+            text = ""
+        intervals [30]
+            xmin = 213.615
+            xmax = 222.426
+            text = "to_point"
+        intervals [31]
+            xmin = 222.426
+            xmax = 224.636
+            text = ""
+    item[2]:
+        class = "IntervalTier"
+        name = "transcription"
+        xmin = 0.0
+        xmax = 224.636
+        intervals: size = 29
+        intervals [1]
+            xmin = 0.0
+            xmax = 7.53
+            text = ""
+        intervals [2]
+            xmin = 7.53
+            xmax = 16.978
+            text = "for a mouth to be open when yawning, qahum qahum qahum"
+        intervals [3]
+            xmin = 16.978
+            xmax = 38.753
+            text = ""
+        intervals [4]
+            xmin = 38.753
+            xmax = 47.511
+            text = "for a mouth to be wide open when yawning, səq̓qɛn səq̓qɛn səq̓qɛn"
+        intervals [5]
+            xmin = 47.511
+            xmax = 48.231
+            text = ""
+        intervals [6]
+            xmin = 48.231
+            xmax = 56.878
+            text = "for a mouth to be closed, qəmč̓oθɛn qəmč̓oθɛn qəmč̓oθɛn"
+        intervals [7]
+            xmin = 56.878
+            xmax = 75.058
+            text = ""
+        intervals [8]
+            xmin = 75.058
+            xmax = 85.478
+            text = "xʷa qʷaqʷiʔɛs qəmč̓oθɛn xʷa qʷaqʷiʔɛs qəmč̓oθɛn xʷa qʷaqʷiʔɛs qəmč̓oθɛn"
+        intervals [9]
+            xmin = 85.478
+            xmax = 109.508
+            text = ""
+        intervals [10]
+            xmin = 109.508
+            xmax = 118.392
+            text = "a lamb, a baby sheep, ləlmato ləlmato ləlmato"
+        intervals [11]
+            xmin = 118.392
+            xmax = 119.072
+            text = ""
+        intervals [12]
+            xmin = 119.072
+            xmax = 130.261
+            text = "two lambs, sasiy̓ɛʔ ləlmato sasiy̓ɛʔ ləlmato sasiy̓ɛʔ ləlmato"
+        intervals [13]
+            xmin = 130.261
+            xmax = 130.427
+            text = ""
+        intervals [14]
+            xmin = 130.427
+            xmax = 141.094
+            text = "three lambs, čɛčəl̓əs ləlmato čɛčəl̓əs ləlmato čɛčəl̓əs ləlmato"
+        intervals [15]
+            xmin = 141.094
+            xmax = 141.353
+            text = ""
+        intervals [16]
+            xmin = 141.353
+            xmax = 147.628
+            text = "sheep, lamato lamato lamato"
+        intervals [17]
+            xmin = 147.628
+            xmax = 147.757
+            text = ""
+        intervals [18]
+            xmin = 147.757
+            xmax = 155.699
+            text = "two sheep, saʔa lamato saʔa lamato saʔa lamato"
+        intervals [19]
+            xmin = 155.699
+            xmax = 157.558
+            text = ""
+        intervals [20]
+            xmin = 157.558
+            xmax = 166.297
+            text = "earrings, ɬak̓ʷaʔanatən"
+        intervals [21]
+            xmin = 166.297
+            xmax = 171.371
+            text = ""
+        intervals [22]
+            xmin = 171.371
+            xmax = 180.763
+            text = "soft or supple, məsq̓ʷom məsq̓ʷom məsq̓ʷom"
+        intervals [23]
+            xmin = 180.763
+            xmax = 183.128
+            text = ""
+        intervals [24]
+            xmin = 183.128
+            xmax = 189.446
+            text = "hard or brittle, ƛ̓əɬ ƛ̓əɬ ƛ̓əɬ"
+        intervals [25]
+            xmin = 189.446
+            xmax = 189.8
+            text = ""
+        intervals [26]
+            xmin = 189.8
+            xmax = 207.0
+            text = "The roots are good and supple,  məsq̓ʷəmot ta kʷaʔamnəč məsq̓ʷəmot ta kʷaʔamnəč məsq̓ʷəmot ta kʷaʔamnəč"
+        intervals [27]
+            xmin = 207.0
+            xmax = 213.615
+            text = ""
+        intervals [28]
+            xmin = 213.615
+            xmax = 222.426
+            text = "to point, χɛč̓ɩm χɛč̓ɩm χɛč̓ɩm"
+        intervals [29]
+            xmin = 222.426
+            xmax = 224.636
+            text = ""
+    item[3]:
+        class = "IntervalTier"
+        name = "words"
+        xmin = 0.0
+        xmax = 224.636
+        intervals: size = 29
+        intervals [1]
+            xmin = 0.0
+            xmax = 7.53
+            text = ""
+        intervals [2]
+            xmin = 7.53
+            xmax = 16.978
+            text = "qahəm"
+        intervals [3]
+            xmin = 16.978
+            xmax = 38.753
+            text = ""
+        intervals [4]
+            xmin = 38.753
+            xmax = 47.511
+            text = "səq̓qɛn"
+        intervals [5]
+            xmin = 47.511
+            xmax = 48.231
+            text = ""
+        intervals [6]
+            xmin = 48.231
+            xmax = 56.878
+            text = "qəmč̓oθɛn  "
+        intervals [7]
+            xmin = 56.878
+            xmax = 75.058
+            text = ""
+        intervals [8]
+            xmin = 75.058
+            xmax = 85.478
+            text = "xʷa qʷaqʷiʔɛs qəmč̓oθɛn"
+        intervals [9]
+            xmin = 85.478
+            xmax = 109.508
+            text = ""
+        intervals [10]
+            xmin = 109.508
+            xmax = 118.392
+            text = "ləlmato"
+        intervals [11]
+            xmin = 118.392
+            xmax = 119.072
+            text = ""
+        intervals [12]
+            xmin = 119.072
+            xmax = 130.261
+            text = "sasiy̓ɛʔ ləlmato"
+        intervals [13]
+            xmin = 130.261
+            xmax = 130.427
+            text = ""
+        intervals [14]
+            xmin = 130.427
+            xmax = 141.094
+            text = "čɛčəl̓əs ləlmato"
+        intervals [15]
+            xmin = 141.094
+            xmax = 141.353
+            text = ""
+        intervals [16]
+            xmin = 141.353
+            xmax = 147.628
+            text = "lamato"
+        intervals [17]
+            xmin = 147.628
+            xmax = 147.757
+            text = ""
+        intervals [18]
+            xmin = 147.757
+            xmax = 155.699
+            text = "saʔa lamato"
+        intervals [19]
+            xmin = 155.699
+            xmax = 157.558
+            text = ""
+        intervals [20]
+            xmin = 157.558
+            xmax = 166.297
+            text = "ɬak̓ʷaʔanatən"
+        intervals [21]
+            xmin = 166.297
+            xmax = 171.371
+            text = ""
+        intervals [22]
+            xmin = 171.371
+            xmax = 180.763
+            text = "məsq̓ʷom"
+        intervals [23]
+            xmin = 180.763
+            xmax = 183.128
+            text = ""
+        intervals [24]
+            xmin = 183.128
+            xmax = 189.446
+            text = "ƛ̓əɬ"
+        intervals [25]
+            xmin = 189.446
+            xmax = 189.8
+            text = ""
+        intervals [26]
+            xmin = 189.8
+            xmax = 207.0
+            text = "məsq̓ʷəmot ta kʷaʔamnəč"
+        intervals [27]
+            xmin = 207.0
+            xmax = 213.615
+            text = ""
+        intervals [28]
+            xmin = 213.615
+            xmax = 222.426
+            text = "χɛč̓ɩm"
+        intervals [29]
+            xmin = 222.426
+            xmax = 224.636
+            text = ""
+    item[4]:
+        class = "IntervalTier"
+        name = "morphemes"
+        xmin = 0.0
+        xmax = 224.636
+        intervals: size = 29
+        intervals [1]
+            xmin = 0.0
+            xmax = 7.53
+            text = ""
+        intervals [2]
+            xmin = 7.53
+            xmax = 16.978
+            text = "qah-əm"
+        intervals [3]
+            xmin = 16.978
+            xmax = 38.753
+            text = ""
+        intervals [4]
+            xmin = 38.753
+            xmax = 47.511
+            text = "səq̓-qən"
+        intervals [5]
+            xmin = 47.511
+            xmax = 48.231
+            text = ""
+        intervals [6]
+            xmin = 48.231
+            xmax = 56.878
+            text = "qəm-č̓o-θɛn"
+        intervals [7]
+            xmin = 56.878
+            xmax = 75.058
+            text = ""
+        intervals [8]
+            xmin = 75.058
+            xmax = 85.478
+            text = "xʷa qʷə~qʷy-ʔəs qəmč̓oθɛn"
+        intervals [9]
+            xmin = 85.478
+            xmax = 109.508
+            text = ""
+        intervals [10]
+            xmin = 109.508
+            xmax = 118.392
+            text = "la~l<a>matu"
+        intervals [11]
+            xmin = 118.392
+            xmax = 119.072
+            text = ""
+        intervals [12]
+            xmin = 119.072
+            xmax = 130.261
+            text = "sa~s<a>L̓-[ʔ] lə~lmatu"
+        intervals [13]
+            xmin = 130.261
+            xmax = 130.427
+            text = ""
+        intervals [14]
+            xmin = 130.427
+            xmax = 141.094
+            text = "ča~č<a>l̓əs lə~lmatu"
+        intervals [15]
+            xmin = 141.094
+            xmax = 141.353
+            text = ""
+        intervals [16]
+            xmin = 141.353
+            xmax = 147.628
+            text = "lamatu"
+        intervals [17]
+            xmin = 147.628
+            xmax = 147.757
+            text = ""
+        intervals [18]
+            xmin = 147.757
+            xmax = 155.699
+            text = "saL̓ lamato"
+        intervals [19]
+            xmin = 155.699
+            xmax = 157.558
+            text = ""
+        intervals [20]
+            xmin = 157.558
+            xmax = 166.297
+            text = "ɬək̓ʷ<ə>-ʔana-tən"
+        intervals [21]
+            xmin = 166.297
+            xmax = 171.371
+            text = ""
+        intervals [22]
+            xmin = 171.371
+            xmax = 180.763
+            text = "msq̓ʷ-əm"
+        intervals [23]
+            xmin = 180.763
+            xmax = 183.128
+            text = ""
+        intervals [24]
+            xmin = 183.128
+            xmax = 189.446
+            text = "ƛ̓ɬ"
+        intervals [25]
+            xmin = 189.446
+            xmax = 189.8
+            text = ""
+        intervals [26]
+            xmin = 189.8
+            xmax = 207.0
+            text = "msq̓ʷ-mot ta kʷm̓-nəč"
+        intervals [27]
+            xmin = 207.0
+            xmax = 213.615
+            text = ""
+        intervals [28]
+            xmin = 213.615
+            xmax = 222.426
+            text = "χič̓-əm"
+        intervals [29]
+            xmin = 222.426
+            xmax = 224.636
+            text = ""
+    item[5]:
+        class = "IntervalTier"
+        name = "translation"
+        xmin = 0.0
+        xmax = 224.636
+        intervals: size = 29
+        intervals [1]
+            xmin = 0.0
+            xmax = 7.53
+            text = ""
+        intervals [2]
+            xmin = 7.53
+            xmax = 16.978
+            text = " a wide open mouth"
+        intervals [3]
+            xmin = 16.978
+            xmax = 38.753
+            text = ""
+        intervals [4]
+            xmin = 38.753
+            xmax = 47.511
+            text = "for a mouth to be wide open when yawning"
+        intervals [5]
+            xmin = 47.511
+            xmax = 48.231
+            text = ""
+        intervals [6]
+            xmin = 48.231
+            xmax = 56.878
+            text = "a closed mouth"
+        intervals [7]
+            xmin = 56.878
+            xmax = 75.058
+            text = ""
+        intervals [8]
+            xmin = 75.058
+            xmax = 85.478
+            text = " He doesn't speak up and express himself."
+        intervals [9]
+            xmin = 85.478
+            xmax = 109.508
+            text = ""
+        intervals [10]
+            xmin = 109.508
+            xmax = 118.392
+            text = "a lamb"
+        intervals [11]
+            xmin = 118.392
+            xmax = 119.072
+            text = ""
+        intervals [12]
+            xmin = 119.072
+            xmax = 130.261
+            text = "two lambs"
+        intervals [13]
+            xmin = 130.261
+            xmax = 130.427
+            text = ""
+        intervals [14]
+            xmin = 130.427
+            xmax = 141.094
+            text = "three lambs"
+        intervals [15]
+            xmin = 141.094
+            xmax = 141.353
+            text = ""
+        intervals [16]
+            xmin = 141.353
+            xmax = 147.628
+            text = "sheep"
+        intervals [17]
+            xmin = 147.628
+            xmax = 147.757
+            text = ""
+        intervals [18]
+            xmin = 147.757
+            xmax = 155.699
+            text = "two sheep"
+        intervals [19]
+            xmin = 155.699
+            xmax = 157.558
+            text = ""
+        intervals [20]
+            xmin = 157.558
+            xmax = 166.297
+            text = "earring"
+        intervals [21]
+            xmin = 166.297
+            xmax = 171.371
+            text = ""
+        intervals [22]
+            xmin = 171.371
+            xmax = 180.763
+            text = "soft or supple"
+        intervals [23]
+            xmin = 180.763
+            xmax = 183.128
+            text = ""
+        intervals [24]
+            xmin = 183.128
+            xmax = 189.446
+            text = "hard or brittle"
+        intervals [25]
+            xmin = 189.446
+            xmax = 189.8
+            text = ""
+        intervals [26]
+            xmin = 189.8
+            xmax = 207.0
+            text = "The roots are soft."
+        intervals [27]
+            xmin = 207.0
+            xmax = 213.615
+            text = ""
+        intervals [28]
+            xmin = 213.615
+            xmax = 222.426
+            text = "to point"
+        intervals [29]
+            xmin = 222.426
+            xmax = 224.636
+            text = ""
+    item[6]:
+        class = "IntervalTier"
+        name = "notes"
+        xmin = 0.0
+        xmax = 224.636
+        intervals: size = 13
+        intervals [1]
+            xmin = 0.0
+            xmax = 7.53
+            text = ""
+        intervals [2]
+            xmin = 7.53
+            xmax = 16.978
+            text = "Is this only for mouths? What about other open things?"
+        intervals [3]
+            xmin = 16.978
+            xmax = 38.753
+            text = ""
+        intervals [4]
+            xmin = 38.753
+            xmax = 47.511
+            text = "cf. səq̓əm 'to yawn' - NEED TO RECORD THIS CITATION FORM"
+        intervals [5]
+            xmin = 47.511
+            xmax = 48.231
+            text = ""
+        intervals [6]
+            xmin = 48.231
+            xmax = 56.878
+            text = "What is the difference between -θən and -qən? Do they refer to different parts of the mouth? lips? tongue?"
+        intervals [7]
+            xmin = 56.878
+            xmax = 75.058
+            text = ""
+        intervals [8]
+            xmin = 75.058
+            xmax = 85.478
+            text = "Susan Blake 2000 has qʷay as the root 'to speak'. If the root is a full vowel /a/, though, why do we get [i] as the second vowel in the surface form here? ipfv reduplication should not trigger vowel deletion."
+        intervals [9]
+            xmin = 85.478
+            xmax = 157.558
+            text = ""
+        intervals [10]
+            xmin = 157.558
+            xmax = 166.297
+            text = "k̓ʷ or q̓ʷ - I think I hear k'ʷ but Sue has q̓ʷ in her dissertation"
+        intervals [11]
+            xmin = 166.297
+            xmax = 213.615
+            text = ""
+        intervals [12]
+            xmin = 213.615
+            xmax = 222.426
+            text = "Is there an underlying vowel or should this be a weak root? NEED TO GET IMPERFECTIVE"
+        intervals [13]
+            xmin = 222.426
+            xmax = 224.636
+            text = ""
+    item[7]:
+        class = "IntervalTier"
+        name = "gloss"
+        xmin = 0.0
+        xmax = 224.636
+        intervals: size = 29
+        intervals [1]
+            xmin = 0.0
+            xmax = 7.53
+            text = ""
+        intervals [2]
+            xmin = 7.53
+            xmax = 16.978
+            text = "open-md"
+        intervals [3]
+            xmin = 16.978
+            xmax = 38.753
+            text = ""
+        intervals [4]
+            xmin = 38.753
+            xmax = 47.511
+            text = "yawn-mouth"
+        intervals [5]
+            xmin = 47.511
+            xmax = 48.231
+            text = ""
+        intervals [6]
+            xmin = 48.231
+            xmax = 56.878
+            text = "close-?-mouth"
+        intervals [7]
+            xmin = 56.878
+            xmax = 75.058
+            text = ""
+        intervals [8]
+            xmin = 75.058
+            xmax = 85.478
+            text = "neg ipfv~speak-3erg closed-?-mouth"
+        intervals [9]
+            xmin = 85.478
+            xmax = 109.508
+            text = ""
+        intervals [10]
+            xmin = 109.508
+            xmax = 118.392
+            text = "DIM~sheep"
+        intervals [11]
+            xmin = 118.392
+            xmax = 119.072
+            text = ""
+        intervals [12]
+            xmin = 119.072
+            xmax = 130.261
+            text = "DIM~two-[DIM] DIM~sheep"
+        intervals [13]
+            xmin = 130.261
+            xmax = 130.427
+            text = ""
+        intervals [14]
+            xmin = 130.427
+            xmax = 141.094
+            text = "DIM~three-[DIM]"
+        intervals [15]
+            xmin = 141.094
+            xmax = 141.353
+            text = ""
+        intervals [16]
+            xmin = 141.353
+            xmax = 147.628
+            text = "sheep"
+        intervals [17]
+            xmin = 147.628
+            xmax = 147.757
+            text = ""
+        intervals [18]
+            xmin = 147.757
+            xmax = 155.699
+            text = "two sheep"
+        intervals [19]
+            xmin = 155.699
+            xmax = 157.558
+            text = ""
+        intervals [20]
+            xmin = 157.558
+            xmax = 166.297
+            text = "?-ear-instr"
+        intervals [21]
+            xmin = 166.297
+            xmax = 171.371
+            text = ""
+        intervals [22]
+            xmin = 171.371
+            xmax = 180.763
+            text = "soft-md"
+        intervals [23]
+            xmin = 180.763
+            xmax = 183.128
+            text = ""
+        intervals [24]
+            xmin = 183.128
+            xmax = 189.446
+            text = "hard/brittle"
+        intervals [25]
+            xmin = 189.446
+            xmax = 189.8
+            text = ""
+        intervals [26]
+            xmin = 189.8
+            xmax = 207.0
+            text = "soft-int det root-bottom"
+        intervals [27]
+            xmin = 207.0
+            xmax = 213.615
+            text = ""
+        intervals [28]
+            xmin = 213.615
+            xmax = 222.426
+            text = "point-md"
+        intervals [29]
+            xmin = 222.426
+            xmax = 224.636
+            text = ""
+    item[8]:
+        class = "IntervalTier"
+        name = "translation2"
+        xmin = 0.0
+        xmax = 224.636
+        intervals: size = 3
+        intervals [1]
+            xmin = 0.0
+            xmax = 48.231
+            text = ""
+        intervals [2]
+            xmin = 48.231
+            xmax = 56.878
+            text = "for someone not to speak up and express themselves"
+        intervals [3]
+            xmin = 56.878
+            xmax = 224.636
+            text = ""
+    item[9]:
+        class = "IntervalTier"
+        name = "edits"
+        xmin = 0.0
+        xmax = 224.636
+        intervals: size = 7
+        intervals [1]
+            xmin = 0.0
+            xmax = 7.53
+            text = ""
+        intervals [2]
+            xmin = 7.53
+            xmax = 16.978
+            text = "re-record English - the English given goes with səq̓qən"
+        intervals [3]
+            xmin = 16.978
+            xmax = 75.058
+            text = ""
+        intervals [4]
+            xmin = 75.058
+            xmax = 85.478
+            text = "edit out stomach noises"
+        intervals [5]
+            xmin = 85.478
+            xmax = 109.508
+            text = ""
+        intervals [6]
+            xmin = 109.508
+            xmax = 118.392
+            text = "might want to edit English to have just 'a lamb'"
+        intervals [7]
+            xmin = 118.392
+            xmax = 224.636
+            text = ""

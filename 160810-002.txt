@@ -1,0 +1,275 @@
+file		00:00:18.278	00:00:29.341	dont_go_there
+file		00:00:29.621	00:00:36.687	be_quiet
+file		00:00:40.933	00:00:53.901	dont_talk
+file		00:01:06.800	00:01:18.033	i_cant_fix_it
+file		00:01:43.072	00:01:54.405	i_cant_walk
+file		00:01:57.260	00:02:09.767	i_couldnt_stand_up
+file		00:02:14.525	00:02:29.490	they_never_visit
+file		00:02:47.181	00:02:59.836	i_havnt_visited
+file		00:03:05.999	00:03:28.306	we_never_move_forward
+file		00:03:33.230	00:03:46.384	he_is_able_to_walk
+file		00:04:12.422	00:04:21.345	someone_arrived
+file		00:04:22.576	00:04:34.922	i_hear_the_fish_have_arrived
+file		00:04:36.422	00:04:49.615	sosan_will_get_it
+file		00:04:53.961	00:05:06.345	you_get_it
+file		00:05:07.653	00:05:20.192	someone_brought_me_wood
+file		00:05:21.222	00:05:31.799	to_deliver_smth
+file		00:05:35.949	00:05:44.641	to_deliver
+file		00:05:44.771	00:05:57m.848	bring_my_canoe_back
+file		00:05:57.981	00:06:10.673	it_would_be_good_to_return_it
+file		00:06:17.947	00:06:28.177	i_didnt_understand_her
+file		00:06:31.343	00:06:42.343	i_dont_understand_you
+file		00:06:43.141	00:06:55.757	to_try_to_do_smth
+file		00:06:55.884	00:06:58.922	i_am_going_to_try_english
+file		00:07:17.576	00:07:22.268	to_try
+file		00:07:29.768	00:07:37.269	i_am_going_to_taste_it
+file		00:07:45.230	00:08:04.999	i_am_learning_ayajuthem
+file		00:08:04.999	00:08:21.691	i_am_learning_to_make_bread
+file		00:08:21.884	00:08:32.884	teacher
+file		00:08:33.114	00:08:40.460	student
+file		00:08:40.691	00:09:03.191	i_am_really_happy _to_be_working_here
+file		00:09:05.922	00:09:18.538	to_direct_speech_toward_someone
+file		00:09:20.461	00:09:30.422	someone_came_and_talked_to_me
+file		00:09:33.960	00:09:45.614	they_are_sitting
+file		00:09:48.653	00:09:56.615	conversation   
+file		00:09:59.191	00:10:04.806	conversation2
+file		00:10:07.460	00:10:19.422	we_are_having_a_conversation
+file		00:10:20.076	00:10:32.960	you_were_sitting_over_there
+file		00:10:34.999	00:10:44.038	someone_is_standing_up
+file		00:10:44.191	00:10:55.806	someone_is_standing_on_the_beach
+file		00:10:56.922	00:11:06.460	i_had_my_walk
+file		00:11:06.653	00:11:15.614	i_have_had_my_meal
+file		00:11:27.729	00:11:33.037	to_sit_pl
+transcription		00:00:18.278	00:00:29.341	Don't go there, xʷɩčɛməs ʔi hočxʷ xʷɩčɛməs ʔi hočxʷ xʷɩčɛməs ʔi hočxʷ   
+transcription		00:00:29.621	00:00:36.687	Be quiet!, t̓osəmčxʷ t̓osəmčxʷ t̓osəmčxʷ
+transcription		00:00:40.933	00:00:53.901	Don't talk, xʷɩčɛməs...  xʷɩčɛməs ʔi qʷayčxʷ xʷɩčɛməs ʔi qʷayčxʷ xʷɩčɛməs ʔi qʷayčxʷ
+transcription		00:01:06.800	00:01:18.033	I can't fix it, xʷɩčɛməs ʔi p̓ap̓ɛʔoxʷčxʷ xʷɩčɛməs ʔi p̓ap̓ɛʔoxʷčxʷ xʷɩčɛməs ʔi p̓ap̓ɛʔoxʷčxʷ
+transcription		00:01:43.072	00:01:54.405	I can't walk., xʷɩčɛməs ʔi ʔɛmašič xʷɩčɛməs ʔi ʔɛmašič xʷɩčɛməs ʔi ʔɛmašič
+transcription		00:01:57.260	00:02:09.767	I couldn't stand up., xʷɩcɛms ʔi k̓ʷɛʔɛšɩč xʷɩcɛms ʔi k̓ʷɛʔɛšɩč xʷɩcɛms ʔi k̓ʷɛʔɛšɩč
+transcription		00:02:14.525	00:02:29.490	They never come to visit., xʷɩčɛmɛs ʔi qʷol k̓ʷʊθəs, xʷɩčɛmɛs ʔi qʷol k̓ʷʊθəs, xʷɩčɛmɛs ʔi qʷol k̓ʷʊθəs 
+transcription		00:02:47.181	00:02:59.836	xʷɩč qʷol θahan k̓ʷʊt, xʷɩč qʷol θahan k̓ʷʊt , xʷɩč qʷol θahan k̓ʷʊt, I haven't gone to visit., I haven't gone to visit.
+transcription		00:03:05.999	00:03:28.306	We never move forward or things never change., xʷɩčɛməs ʔi qʷolčit ʔɛǰɩm, xʷɩčɛməs ʔi qʷolčit ʔɛǰɩm, xʷɩčɛməs ʔi qʷolčit ʔɛǰɩm
+transcription		00:03:33.230	00:03:46.384	He is able to walk again., k̓ʷa qʷol ʔɛmašit, k̓ʷa qʷol ʔɛmašit, k̓ʷa qʷol ʔɛmašit
+transcription		00:04:12.422	00:04:21.345	k̓ʷak̓ʷa qʷol təs, Someone arrived., ok, k̓ʷak̓ʷa qʷol təs, k̓ʷak̓ʷa qʷol təs
+transcription		00:04:22.576	00:04:34.922	I hear the fish have arrived, k̓ʷak̓ʷa qʷol təs kʷ ǰɛnxʷ,  k̓ʷak̓ʷa qʷol təs kʷ ǰɛnxʷ, k̓ʷak̓ʷa qʷol təs kʷ ǰɛnxʷ
+transcription		00:04:36.422	00:04:49.615	Sosan will go and get it., hɛsəm Sosan ʔa θo maʔt, hɛsəm Sosan ʔa θo maʔt
+transcription		00:04:53.961	00:05:06.345	You go get it., nɩgɩsxʷ ga ʔa θo maʔt, nɩgɩsxʷ ga ʔa θo maʔt, nɩgɩsxʷ ga ʔa θo maʔt
+transcription		00:05:07.653	00:05:20.192	Someone brought me wood., qʷol t̓əqəmθayɩm kʷ q̓ʷəyχ, qʷol t̓əqəmθayɩm kʷ q̓ʷəyχ, qʷol t̓əqəmθayɩm kʷ q̓ʷəyχ
+transcription		00:05:21.222	00:05:31.799	to deliver something, hotᶿəm t̓aq̓əš, hotᶿəm t̓aq̓əš, hotᶿəm t̓aq̓əš
+transcription		00:05:35.949	00:05:44.641	to deliver, t̓aʔq̓əš,  t̓aʔq̓əš,  t̓aʔq̓əš
+transcription		00:05:44.771	00:05:57.848	Bring my canoe back, qʷolčəxʷ t̓aʔq̓əš sɩtᶿ nuxʷəɬ, qʷolčəxʷ t̓aʔq̓əš sɩtᶿ nuxʷəɬ, qʷolčəxʷ t̓aʔq̓əš sɩtᶿ nuxʷəɬ
+transcription		00:05:57.981	00:06:10.673	I think it would be good if I return it., ʔi ga θahan t̓aʔq̓əš, ʔi ga θahan t̓aʔq̓əš, ʔi ga θahan t̓aʔq̓əš,
+transcription		00:06:17.947	00:06:28.177	I didn't understand her., xʷɩč ʔaǰuθmɛtən, xʷɩč ʔaǰuθmɛtən, xʷɩč ʔaǰuθmɛtən
+transcription		00:06:31.343	00:06:42.343	I don't understand you., xʷɩč ʔaǰuθmɛθən, xʷɩč ʔaǰuθmɛθən, xʷɩč ʔaǰuθmɛθən
+transcription		00:06:43.141	00:06:55.757	to try to do something, t̓aʔaθottᶿəmt,  t̓aʔaθottᶿəmt,  t̓aʔaθottᶿəmt
+transcription		00:07:17.576	00:07:22.268	t̓aʔaθot, t̓aʔaθot, t̓aʔaθot
+transcription		00:07:29.768	00:07:37.269	I am going to taste it., t̓aʔattᶿəm,  t̓aʔattᶿəm,  t̓aʔattᶿəm
+transcription		00:07:45.230	00:08:04.999	I am learning ʔayʔaǰuθəm., titəwšəmč kʷ ʔayʔaǰuθəm, titəwšəmč kʷ ʔayʔaǰuθəm, titəwšəmč kʷ ʔayʔaǰuθəm
+transcription		00:08:04.999	00:08:21.691	I am learning to make bread., titəwšəmč kʷ χaχǰɛʔəm ʔəkʷ saplɛn, titəwšəmč kʷ χaχǰɛʔəm ʔəkʷ saplɛn, titəwšəmč kʷ χaχǰɛʔəm ʔəkʷ saplɛn
+transcription		00:08:21.884	00:08:32.884	a teacher, titəwšəmstanaq, titəwšəmstanaq, titəwšəmstanaq
+transcription		00:08:33.114	00:08:40.460	a student, titəwšəm, titəwšəm, titəwšəm
+transcription		00:08:40.691	00:09:03.191	I am really happy to be working here., imot kʷətᶿ qʷayɩgən tətᶿ niš p̓ap̓ɛm ʔa tɛʔɛ, imot kʷətᶿ qʷayɩgən tətᶿ niš p̓ap̓ɛm ʔa tɛʔɛ, imot kʷətᶿ qʷayɩgən tətᶿ niš p̓ap̓ɛm ʔa tɛʔɛ
+transcription		00:09:05.922	00:09:18.538	to direct speech to someone or talk to someone, ʔoɬotəm, ʔoɬotəm, ʔoɬotəm
+transcription		00:09:20.461	00:09:30.422	Someone came and talked to me., qʷol ʔoɬʔoɬθayɩm., qʷol ʔoɬʔoɬθayɩm., qʷol ʔoɬʔoɬθayɩm
+transcription		00:09:33.960	00:09:45.614	They are sitting., nɛ kʷikʷanəč
+transcription		00:09:48.653	00:09:56.615	a conversation, qʷeqʷay
+transcription		00:09:59.191	00:10:04.806	taq̓əm
+transcription		00:10:07.460	00:10:19.422	We are having a conversation., taq̓əmšt
+transcription		00:10:20.076	00:10:32.960	You were sitting over there., nɛʔoɬčxʷ kʷanəč ʔa taʔa
+transcription		00:10:34.999	00:10:44.038	Someone is standing up., kʷɛʔɛšit
+transcription		00:10:44.191	00:10:55.806	Someone is standing on the beach., nɛʔ kʷɛʔɛšit ʔa ta q̓ʷɛt
+transcription		00:10:56.922	00:11:06.460	I had my walk., čkʷi ʔɛmašit
+transcription		00:11:06.653	00:11:15.614	I have had my meal., čkʷi ʔɛɬtɛnit.
+transcription		00:11:27.729	00:11:33.037	kʷikʷanəč
+words		00:00:18.278	00:00:29.341	xʷɩčɛməs ʔi hočxʷ
+words		00:00:29.621	00:00:36.687	t̓osəmčxʷ
+words		00:00:40.933	00:00:53.901	xʷɩčɛməs ʔi qʷayčxʷ
+words		00:01:06.800	00:01:18.033	xʷɩčɛməs ʔi p̓ap̓ɛʔoxʷčxʷ
+words		00:01:43.072	00:01:54.405	xʷɩčɛməs ʔi ʔɛmašič
+words		00:01:57.260	00:02:09.767	xʷɩčɛms ʔi k̓ʷɛʔɛšɩč
+words		00:02:14.525	00:02:29.490	xʷɩčɛmɛs ʔi qʷol k̓ʷʊθəs
+words		00:02:47.181	00:02:59.836	xʷɩč qʷol θahan k̓ʷʊt
+words		00:03:05.999	00:03:28.306	xʷɩčɛməs ʔi qʷolčit ʔɛǰɩm
+words		00:03:33.230	00:03:46.384	k̓ʷa qʷol ʔɛmašit
+words		00:04:12.422	00:04:21.345	k̓ʷak̓ʷa qʷol təs
+words		00:04:22.576	00:04:34.922	k̓ʷak̓ʷa qʷol təs kʷ ǰɛnxʷ
+words		00:04:36.422	00:04:49.615	hɛsəm Sosan ʔa θo maʔt
+words		00:04:53.961	00:05:06.345	nɩgɩsxʷ ga ʔa θo maʔt
+words		00:05:07.653	00:05:20.192	qʷol t̓əq̓ʔəmθayɩm kʷ q̓ʷəyχ
+words		00:05:21.222	00:05:31.799	hotᶿəm t̓aʔq̓əš
+words		00:05:35.949	00:05:44.641	t̓aʔq̓əš
+words		00:05:44.771	00:05:57.848	qʷolčəxʷ t̓aʔq̓əš šɩtᶿ nuxʷəɬ
+words		00:05:57.981	00:06:10.673	ʔi ga θahan t̓aʔq̓əš
+words		00:06:17.947	00:06:28.177	xʷɩč ʔaǰuθmɛtən
+words		00:06:31.343	00:06:42.343	xʷɩč ʔaǰuθmɛθən
+words		00:06:43.141	00:06:55.757	 t̓aʔaθottᶿəmt
+words		00:07:17.576	00:07:22.268	t̓aʔaθot
+words		00:07:29.768	00:07:37.269	 t̓aʔattᶿəm
+words		00:07:45.230	00:08:04.999	titəwšəmč kʷ ʔayʔaǰuθəm
+words		00:08:04.999	00:08:21.691	titəwšəmč kʷ hahǰɛʔəm ʔəkʷ saplɛn
+words		00:08:21.884	00:08:32.884	titəwšəmstanaq
+words		00:08:33.114	00:08:40.460	titəwšəm
+words		00:08:40.691	00:09:03.191	 ʔimot kʷətᶿ qʷayɩgən tətᶿniš p̓ap̓ɛm ʔa tɛʔɛ.
+words		00:09:05.922	00:09:18.538	ʔoɬotʔəm
+words		00:09:20.461	00:09:30.422	qʷol ʔoɬʔoɬθayɩm
+words		00:09:33.960	00:09:45.614	nɛʔ kʷikʷanəč
+words		00:09:48.653	00:09:56.615	qʷeyqʷay
+words		00:09:59.191	00:10:04.806	taq̓əm
+words		00:10:07.460	00:10:19.422	taq̓əmšt
+words		00:10:20.076	00:10:32.960	 nɛʔoɬčxʷ kʷanəč ʔa taʔa
+words		00:10:34.999	00:10:44.038	kʷɛʔɛšit
+words		00:10:44.191	00:10:55.806	nɛʔ kʷɛʔɛšit ʔa ta q̓ʷɛt
+words		00:10:56.922	00:11:06.460	čkʷi ʔɛmašit
+words		00:11:06.653	00:11:15.614	čkʷi ʔɛɬtɛnit.
+words		00:11:27.729	00:11:33.037	kʷikʷanəč
+morphemes		00:00:18.278	00:00:29.341	xʷa čim=əs ʔəy hu=čxʷ
+morphemes		00:00:29.621	00:00:36.687	t̓us-əm=čxʷ
+morphemes		00:00:40.933	00:00:53.901	xʷa čim=əs ʔəy qʷay=čxʷ
+morphemes		00:01:06.800	00:01:18.033	xʷa čim=əs ʔəy p̓ap̓-?-əxʷ=čxʷ
+morphemes		00:01:43.072	00:01:54.405	xʷa čim=əs ʔəy ʔimaš=?=č
+morphemes		00:01:57.260	00:02:09.767	xʷa čim=əs ʔəy k̓ʷɛʔɛš=?=č
+morphemes		00:02:14.525	00:02:29.490	xʷa čim=əs ʔəy qʷul k̓ʷu-θ-əs
+morphemes		00:02:47.181	00:02:59.836	xʷa=č qʷul θa-h=an k̓ʷʊt
+morphemes		00:03:05.999	00:03:28.306	xʷa čim=əs ʔəy qʷul=č=ʔit ʔəǰ~əy-m
+morphemes		00:03:33.230	00:03:46.384	k̓ʷa qʷul ʔimaš-it
+morphemes		00:04:12.422	00:04:21.345	k̓ʷak̓ʷa qʷul təs
+morphemes		00:04:22.576	00:04:34.922	k̓ʷak̓ʷa qʷul təs kʷ ǰanxʷ
+morphemes		00:04:36.422	00:04:49.615	hiɬ=səm Sosan ʔa θu maʔ-t
+morphemes		00:04:53.961	00:05:06.345	nigi-sxʷ ga ʔa θo maʔ-t
+morphemes		00:05:07.653	00:05:20.192	qʷul t̓əq̓-ʔəm-θay-əm kʷ q̓ʷəyχ
+morphemes		00:05:21.222	00:05:31.799	hu=tᶿəm t̓əq̓-əš
+morphemes		00:05:35.949	00:05:44.641	t̓əq̓-əš
+morphemes		00:05:44.771	00:05:57.848	qʷul=čəxʷ t̓əq̓-əš šə-tᶿ nuxʷəɬ
+morphemes		00:05:57.981	00:06:10.673	ʔǰ ga θa-<h>=ən t̓əq̓-əš
+morphemes		00:06:17.947	00:06:28.177	xʷa=č ʔaǰ-uθ-m-ɛt=ən
+morphemes		00:06:31.343	00:06:42.343	xʷa=č ʔaǰ-uθ-m-əθ=ən
+morphemes		00:06:43.141	00:06:55.757	t̓aʔa-θut=tᶿəm=t
+morphemes		00:07:17.576	00:07:22.268	t̓aʔ-θot
+morphemes		00:07:29.768	00:07:37.269	t̓aʔ-t=tᶿəm
+morphemes		00:07:45.230	00:08:04.999	ti~tiwš-əm=č kʷ ʔəǰ~ʔəǰ-uθ-əm
+morphemes		00:08:04.999	00:08:21.691	ti~tiwš-əm=č kʷ hə~hǰ-ʔəm ʔəkʷ saplən
+morphemes		00:08:21.884	00:08:32.884	ti~tiwš-əm-st-anaq
+morphemes		00:08:33.114	00:08:40.460	ti~tiwš-əm
+morphemes		00:08:40.691	00:09:03.191	ʔǰ-mut kʷə-tᶿ qʷay-ɩgən tə-tᶿ niš p̓ap̓-əm ʔa tiʔ.
+morphemes		00:09:05.922	00:09:18.538	ʔuɬ-ət-ʔəm
+morphemes		00:09:20.461	00:09:30.422	qʷul ʔuɬ~ə-θay-əm
+morphemes		00:09:33.960	00:09:45.614	niʔ kʷi~kʷa-nəč
+morphemes		00:09:48.653	00:09:56.615	qʷey~qʷay
+morphemes		00:09:59.191	00:10:04.806	taq̓-əm
+morphemes		00:10:07.460	00:10:19.422	taq̓-əm=št
+morphemes		00:10:20.076	00:10:32.960	niʔ-uɬ=čxʷ kʷa-nəč ʔə taʔ
+morphemes		00:10:34.999	00:10:44.038	kʷiʔ-š<i>t
+morphemes		00:10:44.191	00:10:55.806	niʔ kʷiʔ-š<i>t ʔə tə q̓ʷit
+morphemes		00:10:56.922	00:11:06.460	č=kʷi ʔimaš-it
+morphemes		00:11:06.653	00:11:15.614	č=kʷi ʔiɬtən-it
+morphemes		00:11:27.729	00:11:33.037	kʷi~kʷa-nəč
+translation		00:00:18.278	00:00:29.341	Don't go there.
+translation		00:00:29.621	00:00:36.687	Be quiet!
+translation		00:00:40.933	00:00:53.901	Don't talk.
+translation		00:01:06.800	00:01:18.033	I can't fix it.
+translation		00:01:43.072	00:01:54.405	I can't walk
+translation		00:01:57.260	00:02:09.767	I couldn't stand up.
+translation		00:02:14.525	00:02:29.490	They never come to visit me.
+translation		00:02:47.181	00:02:59.836	I haven't gone to visit.
+translation		00:03:05.999	00:03:28.306	I never get better.
+translation		00:03:33.230	00:03:46.384	He is able to walk (again).
+translation		00:04:12.422	00:04:21.345	Someone arrived (I heard).
+translation		00:04:22.576	00:04:34.922	I hear the fish have arrived.
+translation		00:04:36.422	00:04:49.615	Sosan will get it.
+translation		00:04:53.961	00:05:06.345	You go get it.
+translation		00:05:07.653	00:05:20.192	Someone brought me wood.
+translation		00:05:21.222	00:05:31.799	I'm going to deliver something.
+translation		00:05:35.949	00:05:44.641	to deliver
+translation		00:05:44.771	00:05:57.848	Bring my canoe back.
+translation		00:05:57.981	00:06:10.673	It would be good if I return it.
+translation		00:06:17.947	00:06:28.177	I didn't understand her.
+translation		00:06:31.343	00:06:42.343	I don't understand you.
+translation		00:06:43.141	00:06:55.757	I am going to try it.
+translation		00:07:17.576	00:07:22.268	to try
+translation		00:07:29.768	00:07:37.269	I am going to taste it.
+translation		00:07:45.230	00:08:04.999	I am learning ʔayʔaǰʊθəm.
+translation		00:08:04.999	00:08:21.691	I am learning to make bread.
+translation		00:08:21.884	00:08:32.884	teacher
+translation		00:08:33.114	00:08:40.460	student
+translation		00:08:40.691	00:09:03.191	I'm really happy to be working here. 
+translation		00:09:05.922	00:09:18.538	to direct speech to someone
+translation		00:09:20.461	00:09:30.422	Someone came and talked to me.
+translation		00:09:33.960	00:09:45.614	They are sitting. 
+translation		00:09:48.653	00:09:56.615	a conversation
+translation		00:09:59.191	00:10:04.806	conversation
+translation		00:10:07.460	00:10:19.422	We are having a conversation.
+translation		00:10:20.076	00:10:32.960	
+translation		00:10:34.999	00:10:44.038	Someone is standing up.
+translation		00:10:44.191	00:10:55.806	Someone is standing on the beach.
+translation		00:10:56.922	00:11:06.460	I had my walk.
+translation		00:11:06.653	00:11:15.614	I have eaten.
+translation		00:11:27.729	00:11:33.037	to sit (of more than one person)
+notes		00:00:18.278	00:00:29.341	
+notes		00:03:05.999	00:03:28.306	I don't think the English on the audio file is an accurate translation. CHECK TRANSLATION
+notes		00:03:33.230	00:03:46.384	should  'again' be included in the translation? 
+notes		00:04:12.422	00:04:21.345	Is this a reduplicated reportative particle?? Check if this can be used with other sources of evidence
+notes		00:04:36.422	00:04:49.615	Is hɛ underlyingly hi or hiɬ?
+notes		00:06:31.343	00:06:42.343	
+notes		00:06:43.141	00:06:55.757	redo English (can use i_am_going_to_try_english)
+notes		00:06:55.884	00:06:58.922	
+notes		00:08:33.114	00:08:40.460	this seems like the same as for  'learn'. Is there any difference in the morphology?
+notes		00:09:05.922	00:09:18.538	what does the root ʔoɬ mean?
+notes		00:10:34.999	00:10:44.038	the action of standing up, or the state of standing up? - probably state - see next
+gloss		00:00:18.278	00:00:29.341	neg mod=3cnj.sbj cnj go=2s.sbj
+gloss		00:00:29.621	00:00:36.687	quiet-me=2s.sbj
+gloss		00:00:40.933	00:00:53.901	neg mod=3cnj.sbj cnj talk=2s.sbj
+gloss		00:01:06.800	00:01:18.033	neg mod=3erg cnj work-?-ntr=2s.sbj
+gloss		00:01:43.072	00:01:54.405	neg mod=3erg cnj walk=?=1s.sbj
+gloss		00:01:57.260	00:02:09.767	neg mod=3cnj.sbj cnj stand.up=?=1s.sbj
+gloss		00:02:14.525	00:02:29.490	neg mod=3cnj.sbj cnj come see-tr.1s.obj-3erg
+gloss		00:02:47.181	00:02:59.836	neg=1.sbj come go-ep.h=1cnj.sbj see-tr
+gloss		00:03:05.999	00:03:28.306	neg mod=3cnj.sbj cnj come=1s.sbj=? good~inch-md
+gloss		00:03:33.230	00:03:46.384	prt come walk-?
+gloss		00:04:12.422	00:04:21.345	prt come arrive
+gloss		00:04:22.576	00:04:34.922	prt come arrive det fish
+gloss		00:04:36.422	00:04:49.615	be=fut Sosan clf.prt go get-tr
+gloss		00:04:53.961	00:05:06.345	2s.inp.pr-caus prt clf.prt go get-tr
+gloss		00:05:07.653	00:05:20.192	come bring-ind-tr.1s.obj-md det wood
+gloss		00:05:21.222	00:05:31.799	go=1s.sbj.fut bring/deliver-tr
+gloss		00:05:35.949	00:05:44.641	bring-tr
+gloss		00:05:44.771	00:05:57.848	come=2s.sbj bring-tr det-1s.poss canoe
+gloss		00:05:57.981	00:06:10.673	good if go-epen=1s.cnj.sbj bring-tr
+gloss		00:06:17.947	00:06:28.177	neg=1s.sbj good-mouth-md-tr=1s.cnj.sbj
+gloss		00:06:31.343	00:06:42.343	neg=1s.sbj good-mouth-md-2s.obj.tr=1s.cnj.sbj
+gloss		00:06:43.141	00:06:55.757	try-rflx=1s.sbj
+gloss		00:07:17.576	00:07:22.268	try-ctr.rflx
+gloss		00:07:29.768	00:07:37.269	try-tr-1s.sbj.fut
+gloss		00:07:45.230	00:08:04.999	ipfv~learn-md=1s.sbj det char~good-mouth-md
+gloss		00:08:04.999	00:08:21.691	ipfv~learn-md=1s.sbj comp ipfv~make-act.intr obl.det bread
+gloss		00:08:21.884	00:08:32.884	learn-md-caus-unsp.obj
+gloss		00:08:33.114	00:08:40.460	ipfv~learn-md
+gloss		00:08:40.691	00:09:03.191	good-int det-1s.poss talk-ins.body det-1s.poss be.here work-md obl here
+gloss		00:09:05.922	00:09:18.538	talk?-tr-ind
+gloss		00:09:20.461	00:09:30.422	come talk?-1s.obj-pass
+gloss		00:09:33.960	00:09:45.614	here pl~sit-behind
+gloss		00:09:48.653	00:09:56.615	pl~talk
+gloss		00:09:59.191	00:10:04.806	talk-md
+gloss		00:10:07.460	00:10:19.422	talk-md=1pl.sbj
+gloss		00:10:20.076	00:10:32.960	be.there-pst=2s.sbj sit-behind obl there
+gloss		00:10:34.999	00:10:44.038	?-high<stat>
+gloss		00:10:44.191	00:10:55.806	there ?-high<stat> obl det beach
+gloss		00:10:56.922	00:11:06.460	1s.sbj=prf? walk-prf?
+gloss		00:11:06.653	00:11:15.614	1s.sbj=prf? eat-prf?
+gloss		00:11:27.729	00:11:33.037	pl~sit-behind
+translation2		00:01:06.800	00:01:18.033	I could not fix it.
+translation2		00:08:40.691	00:09:03.191	Literal: My feelings are good working here.
+translation2		00:09:05.922	00:09:18.538	to talk to someone
+edits		00:00:18.278	00:00:29.341	cut out me saying ʔayʔaǰuθəm!
+edits		00:00:40.933	00:00:53.901	edit out false start
+edits		00:01:06.800	00:01:18.033	edit comment
+edits		00:02:47.181	00:02:59.836	put English first
+edits		00:03:05.999	00:03:28.306	edit out me saying ʔayʔaǰuθəm
+edits		00:03:33.230	00:03:46.384	maybe re-record English
+edits		00:04:12.422	00:04:21.345	put English first
+edits		00:05:21.222	00:05:31.799	English given is  'to deliver smth' but sentence means 'I'm going to deliver smth'
+edits		00:05:35.949	00:05:44.641	Edit English!
+edits		00:07:17.576	00:07:22.268	add english, edit out comment
+edits		00:07:29.768	00:07:37.269	edit sound of page turning
+edits		00:07:45.230	00:08:04.999	edit comment
+edits		00:09:05.922	00:09:18.538	edit out me saying ʔayʔaǰuθəm
+edits		00:10:07.460	00:10:19.422	edit out me saying ʔayʔaǰuθəm
